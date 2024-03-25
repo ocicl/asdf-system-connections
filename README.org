@@ -2,8 +2,8 @@
 
 a not too rich person's ASDF system interconnection facility
 
-|---------+-----------------------------------------------------------|
-| source  | git:https://github.com/gwkkwg/asdf-system-connections.git |
-| commit  | 9f08524                                                   |
-| systems | asdf-system-connections                                   |
-|---------+-----------------------------------------------------------|
+|---------+---------------------------------------------------------------------|
+| source  | git:https://github.com/lisp-maintainers/asdf-system-connections.git |
+| commit  | 9f08524                                                             |
+| systems | asdf-system-connections                                             |
+|---------+---------------------------------------------------------------------|
